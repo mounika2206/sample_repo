@@ -1,0 +1,45 @@
+body{
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+
+}
+.head1
+{
+    font-size: 40px;
+    color:black;
+}
+.head2
+{
+    font-size: 30px;
+    color:red;
+}
+p{
+    font-size: 15px;
+    color: yellow;
+}
+#head3
+{
+    font-size: 20px;
+    color:white;
+}
+input[type="text"]
+{
+    font-size: 20px;
+    width:100%;
+}
+input[type="password"]
+{
+    font-size:20px;
+    width:50%;
+    border:5px solid red;
+}
+input[type="email"]
+{
+    font-size:20px;
+    width:40%;
+    border:5px dotted black;
+}
+td{
+    color:red;
+}

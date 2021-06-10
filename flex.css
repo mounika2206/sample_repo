@@ -1,0 +1,51 @@
+body
+{
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:50px;
+    
+}
+button
+{
+    background-color:blue;
+    border:3px solid deeppink;
+   border-radius: 10px;
+   cursor:pointer;
+   padding:8px;
+   font-weight: bold;
+   color:white;
+   font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+button:hover{
+    background-color:yellowgreen;
+}
+img
+{
+    height:80px;
+    width:80px;
+    
+    
+}
+
+.parent
+{
+    padding-right: 50px;
+    background-color:lightskyblue;
+    height:400px;
+    width:800px;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    gap:8px;
+    padding-top:40px;
+
+}
+.child
+{
+    background-color: deeppink;
+    height:320px;
+    width:250px;
+    text-align: center;
+}

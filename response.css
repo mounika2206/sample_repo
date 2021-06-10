@@ -1,0 +1,32 @@
+/*mobile-->green
+table-->blue
+laptop-->red
+PC-->brown 
+Mobile First approach
+*/
+/*
+mobile->0-767
+Tablet ->768px and laptop ->1020px
+pC->1400px;
+*/
+body{
+    background-color: green;
+}
+@media (min-width:768px)
+{
+body{
+background-color: blueviolet;
+}
+
+}
+@media(min-width:1020px)
+{
+    body{
+        background-color: red;
+    }
+}
+@media(min-width:1400px)
+{
+    body{background-color: orange;
+    }
+}
