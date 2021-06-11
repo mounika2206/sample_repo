@@ -1,0 +1,161 @@
+PS C:\Users\mounika\Desktop\cplus\HTML> git config --global user.name "mounika1016"
+PS C:\Users\mounika\Desktop\cplus\HTML> git config --global user.email "enugumounika@gmail.com"
+PS C:\Users\mounika\Desktop\cplus\HTML> git init
+Reinitialized existing Git repository in C:/Users/mounika/Desktop/cplus/HTML/.git/
+PS C:\Users\mounika\Desktop\cplus\HTML> git add .
+PS C:\Users\mounika\Desktop\cplus\HTML> git commit -m "setup magic"
+[master (root-commit) 32e625b] setup magic
+ 146 files changed, 2215 insertions(+)
+ create mode 100644 .vscode/c_cpp_properties.json
+ create mode 100644 .vscode/settings.json
+ create mode 100644 20210520_223805.jpg
+ create mode 100644 boxmodel.css
+ create mode 100644 boxmodel.html
+ create mode 100644 bujji.mp4
+ create mode 100644 c++/121.c
+ create mode 100644 c++/121.exe
+ create mode 100644 c++/122.c
+ create mode 100644 c++/122.exe
+ create mode 100644 c++/123.c
+ create mode 100644 c++/123.exe
+ create mode 100644 c++/1233.c
+ create mode 100644 c++/1233.exe
+ create mode 100644 c++/12344.c
+ create mode 100644 c++/12344.exe
+ create mode 100644 c++/124.c
+ create mode 100644 c++/124.exe
+ create mode 100644 c++/77.c
+ create mode 100644 c++/77.exe
+ create mode 100644 c++/a.exe
+ create mode 100644 c++/add.cpp
+ create mode 100644 c++/add.exe
+ create mode 100644 c++/addmat.cpp
+ create mode 100644 c++/addmat.exe
+ create mode 100644 c++/arthimetic.cpp
+ create mode 100644 c++/bubble.cpp
+ create mode 100644 c++/bubblee.cpp
+ create mode 100644 c++/bubblee.exe
+ create mode 100644 c++/char.cpp
+ create mode 100644 c++/chcpp.cpp
+ create mode 100644 c++/day-3.html
+ create mode 100644 c++/day2.cpp
+ create mode 100644 c++/day4.html
+ create mode 100644 c++/dowhile.cpp
+ create mode 100644 c++/external.css
+ create mode 100644 c++/external.html
+ create mode 100644 c++/first.cpp
+ create mode 100644 c++/first.exe
+ create mode 100644 c++/flex.css
+ create mode 100644 c++/flexproject.html
+ create mode 100644 c++/for.cpp
+ create mode 100644 c++/hello.exe
+ create mode 100644 c++/hellow.cpp
+ create mode 100644 c++/ifelse.cpp
+ create mode 100644 c++/internal.html
+ create mode 100644 c++/june9.cpp
+ create mode 100644 c++/june9.css
+ create mode 100644 c++/june9.html
+ create mode 100644 c++/loops.cpp
+ create mode 100644 c++/low.cpp
+ create mode 100644 c++/low.exe
+ create mode 100644 c++/lowerr.cpp
+ create mode 100644 c++/lowerr.exe
+ create mode 100644 c++/marks.cpp
+ create mode 100644 c++/max.java
+ create mode 100644 c++/maxdiff.cpp
+ create mode 100644 c++/maxdiff.exe
+ create mode 100644 c++/oddeven.cpp
+ create mode 100644 c++/one20.cpp
+ create mode 100644 c++/refer.cpp
+ create mode 100644 c++/reference.cpp
+ create mode 100644 c++/scan add.cpp
+ create mode 100644 c++/scanadd.cpp
+ create mode 100644 c++/scanadd.exe
+ create mode 100644 c++/sec.cpp
+ create mode 100644 c++/selection.cpp
+ create mode 100644 c++/selection.exe
+ create mode 100644 c++/sing.cpp
+ create mode 100644 c++/sing.exe
+ create mode 100644 c++/star.cpp
+ create mode 100644 c++/star1.cpp
+ create mode 100644 c++/star11.cpp
+ create mode 100644 c++/star11.exe
+ create mode 100644 c++/star2.cpp
+ create mode 100644 c++/star2.exe
+ create mode 100644 c++/star3.cpp
+ create mode 100644 c++/star4.cpp
+ create mode 100644 c++/star4.exe
+ create mode 100644 c++/star5.cpp
+ create mode 100644 c++/star5.exe
+ create mode 100644 c++/star6.cpp
+ create mode 100644 c++/star6.exe
+ create mode 100644 c++/star7.cpp
+ create mode 100644 c++/star7.exe
+ create mode 100644 c++/string.cpp
+ create mode 100644 c++/string.exe
+ create mode 100644 c++/stylesss.css
+ create mode 100644 c++/subset.cpp
+ create mode 100644 c++/subset.exe
+ create mode 100644 c++/sumarray.cpp
+ create mode 100644 c++/sumarray.exe
+ create mode 100644 c++/titl.cpp
+ create mode 100644 c++/titl.exe
+ create mode 100644 c++/titlled.cpp
+ create mode 100644 c++/titlled.exe
+ create mode 100644 c++/vote.cpp
+ create mode 100644 c++/while.cpp
+ create mode 100644 day -1.html
+ create mode 100644 day(7-6-2020).html
+ create mode 100644 day-3.html
+ create mode 100644 day1.html
+ create mode 100644 day2.html
+ create mode 100644 day4.html
+ create mode 100644 dayjune7.html
+ create mode 100644 div tag.html
+ create mode 100644 div.html
+ create mode 100644 download (1).jpg
+ create mode 100644 download.jpg
+ create mode 100644 finalday june7.html
+ create mode 100644 finalday.css
+ create mode 100644 flex.css
+ create mode 100644 flexproject.html
+ create mode 100644 food1.jpg
+ create mode 100644 food2.jpg
+ create mode 100644 food3.jpg
+ create mode 100644 food4.jpg
+ create mode 100644 form.html
+ create mode 100644 g.jpg
+ create mode 100644 git.html
+ create mode 100644 html.png
+ create mode 100644 image.css
+ create mode 100644 image.html
+ create mode 100644 june8.css
+ create mode 100644 june8.html
+ create mode 100644 many.m4a
+ create mode 100644 mypage.html
+ create mode 100644 photo.jpg
+ create mode 100644 position.css
+ create mode 100644 position.html
+ create mode 100644 respnsive.html
+ create mode 100644 response.css
+ create mode 100644 splashing-165192_1280.jpg
+ create mode 100644 style.css
+ create mode 100644 styles1.css
+ create mode 100644 sudo.css
+ create mode 100644 sudo.html
+ create mode 100644 table.html
+ create mode 100644 tables.html
+ create mode 100644 today.html
+ create mode 100644 video.html
+ create mode 100644 video.mp4
+ create mode 100644 writing-828911_1920 - Copy.jpg
+ create mode 100644 zoma
+ create mode 100644 zomato.css
+ create mode 100644 zomato.html
+PS C:\Users\mounika\Desktop\cplus\HTML> git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\mounika\Desktop\cplus\HTML>

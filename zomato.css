@@ -1,24 +1,80 @@
 body
 {
     background-color: aqua;
-    padding:50px;
+    
     
 }
 .parent
 {
- height:400px;
- width:800px;
+    margin: right 7px;
+ height:250px;
+ width:880px;
  display:flex;
- gap:3px;
+
+ gap:8px;
  background-color: white;
  justify-content: center;
+ text-align: center;
+ margin-right: 250px;
+ align-items: center;
  
  
 }
 .child
 {
     height:200px;
-    width:200px;
+    width:210px;
     background-color:pink;
     
+}
+img
+{
+    height:200px;
+    width:200px;
+    border: 5px solid black;
+    border-radius: 1px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: initial;
+    display:inline-block;
+    justify-content: center;
+}
+
+
+
+@media(min-width:1400px)
+{
+    body{
+        background-color: orange;
+    }
+}
+
+button
+{
+    background-color:lawngreen;
+    border:3px solid deeppink;
+   border-radius: 10px;
+   cursor:pointer;
+   padding:8px;
+   font-weight: bold;
+   color:white;
+   font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   
+}
+button:hover{
+    background-color:orange;
+}
+.parent2
+{
+    text-align: center;
 }
